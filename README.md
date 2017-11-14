@@ -29,3 +29,15 @@ Matrix transpose calculator <br>
 Matrix multiplication calculator <br>
 Matrix variance calculator <br>
 Matrix determinant calculator <br>
+
+---
+Please Cite:
+
+<b>Dimensionality Reduction and Prediction of the Protein Macromolecule Dissolution Profile </b><br>
+Proceedings of the Fifth International Conference on Innovations in Bio-Inspired Computing and Applications IBICA 2014<br>
+https://link.springer.com/chapter/10.1007/978-3-319-08156-4_30
+
+
+<b>Dimensionality reduction, and function approximation of poly (lactic-co-glycolic acid) micro-and nanoparticle dissolution rate</b><br>
+VK Ojha, K Jackowski, A Abraham, V Snášel, International journal of nanomedicine, 2015 <br>
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4327564/
